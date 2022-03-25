@@ -8,4 +8,4 @@
 ## 解决方案
 如上图所示，Item最多能同时被看到的个数是**6**，所以实际上只要生成6个预制体（Prefab）就够了，重复利用Item，避免全部加载造成**卡顿**及**内存**浪费！
 ## 工程地址
-ScrollViewPro
+[ScrollViewPro](https://github.com/u6fe0/Hyper-Casual-Games-Dev-Guide/blob/main/Example/Cocos-Creator/ScrollViewPro/README.md)
