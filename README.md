@@ -13,6 +13,6 @@
 ## 图形
 ## 输入
 ## 脚本
-## [UI（用户界面）](https://github.com/u6fe0/Hyper-Casual-Games-Dev-Guide/blob/main/Content/UI（用户界面）/README.md)
-### [图鉴](https://github.com/u6fe0/Hyper-Casual-Games-Dev-Guide/blob/main/Content/UI（用户界面）/图鉴/README.md)
+## [UI](https://github.com/u6fe0/Hyper-Casual-Games-Dev-Guide/blob/main/Content/UI/README.md)
+### [图鉴](https://github.com/u6fe0/Hyper-Casual-Games-Dev-Guide/blob/main/Content/UI/图鉴/README.md)
 ## [测试](https://github.com/u6fe0/Hyper-Casual-Games-Dev-Guide/blob/main/Content/测试/README.md)
